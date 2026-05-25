@@ -38,24 +38,6 @@ Deep expertise in **PySpark, Delta Lake, and distributed data processing** acros
 
 ---
 
-## Experience
-
-**Senior Data Engineer** `Apr 2024 – Present`
-- Led migration of legacy ETL processes to cloud-based ELT on **Microsoft Fabric**
-- Designed real-time data platform on **Azure Event Hubs** with Unified Data Model (UDM)
-- Built **40–50 Delta tables** with optimised partitioning for scalable analytics
-- Created C-suite utility for space utilisation and cost vs. usage analysis
-- Managed CI/CD pipelines via **Azure DevOps**
-
-**Systems Engineer** `Mar 2021 – Feb 2024`
-- Designed enterprise-scale **ETL pipelines** with robust data validation and error handling
-- Built a Data and Reporting Platform for Insurance domain on **Azure Databricks**
-- Developed Python scripts to ingest API data into **Azure Databricks**
-- Performed EDA; built fact tables and **Power BI** analytics solutions
-- Received client appreciation for DBaaS Migration and Innovation
-
----
-
 ## Featured Projects
 
 **Workplace Analytics Platform**
@@ -91,8 +73,12 @@ Built on **Azure Databricks** with **Delta Lake**, feeding analytics and ML work
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ar2029&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar2029&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ar2029&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar2029&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ar2029&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%"/>
 </p>
 
 ---
